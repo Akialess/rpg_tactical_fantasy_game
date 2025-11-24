@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Non ! Je ne laisserai pas des créatures mort-vivantes comme vous me tuer !
+=======
+Non ! Je ne laisserai pas des créatures mort-vivantes comme toi me tuer !
+>>>>>>> 9eadd8ff (add support for french language)
 DÉGAGEZ !!!
 [Un couteau vous est lancé dessus.]
