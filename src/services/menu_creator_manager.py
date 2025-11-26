@@ -565,7 +565,7 @@ def create_player_menu(
                         ],
                     )
                     chest_option = True
-                if "lock_picking" in player.skills and not pick_lock_option and not entity.opened:
+                if "lock_picking" in player.skills and not entity.opened and not pick_lock_option:
                     grid_elements.insert(
                         0,
                         [
